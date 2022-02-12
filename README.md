@@ -1,2 +1,2 @@
-# python_programming
+# python_programming_for_IoT
 programming_snippet_repository
